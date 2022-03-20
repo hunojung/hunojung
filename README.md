@@ -4,6 +4,17 @@
 
 ### 안녕하세요! 신입 개발자 정훈오 입니다 👋
 
+<h3><b>💻 Projects 💻</b></h3>
+<hr />
+
+1. 호텔 정보 조회 사이트 - https://github.com/hunojung/HotelInfo
+
+2. 데이터 분석 챗봇 - https://github.com/hunojung/ChatBotMain
+
+3. 숫자 맞추기 AI 게임 - https://github.com/hunojung/NumberDetectionAI
+
+4. ByeBuying 쇼핑몰 - https://github.com/hunojung/ByeBuying
+
 <h3><b>⚙ Skills ⚙</b></h3>
 <hr />
 <h4>Backend</h4>
