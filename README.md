@@ -2,18 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhunojung&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
-### 안녕하세요! 신입 개발자 정훈오 입니다 👋
-
-<h3><b>💻 Projects 💻</b></h3>
-<hr />
-
-1. 호텔 정보 조회 사이트 - https://github.com/hunojung/HotelInfo
-
-2. 데이터 분석 챗봇 - https://github.com/hunojung/ChatBotMain
-
-3. 숫자 맞추기 AI 게임 - https://github.com/hunojung/NumberDetectionAI
-
-4. ByeBuying 쇼핑몰 - https://github.com/hunojung/ByeBuying
+### 안녕하세요! 신입 백엔드 개발자 정훈오 입니다 👋
 
 <h3><b>⚙ Skills ⚙</b></h3>
 <hr />
